@@ -1,0 +1,8 @@
+/.idea/
+/thirdparty/
+/.cursor/
+
+__pycache__/ 
+**/__pycache__/
+
+*.log
